@@ -1,5 +1,5 @@
 let marks = 85;
-if (marks >= 90){
+if (marks >= 95){
     console.log("A grade");
 }
 else if(marks >= 75) {
