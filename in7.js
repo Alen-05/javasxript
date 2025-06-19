@@ -5,7 +5,7 @@
 let a=0;
 while(a<10){
    // console.log(a);
-   if(a===5){
+   if(a===9){
 
     a++;
     continue;
